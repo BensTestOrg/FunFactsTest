@@ -21,7 +21,8 @@ public class ColorWheel {
             "#b7c0c7",  // light gray
             "#ff00ff",  // more pink
             "#00dddd",  // cyan
-            "#00ff00"
+            "#00ff00",
+            "#ff0000"
     };
 
     // Method (abilities: things the object can do)
